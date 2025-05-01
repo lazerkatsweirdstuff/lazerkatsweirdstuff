@@ -6,3 +6,5 @@
 - ⚡ Fun fact: I like chIse
 
 My bestest project is ServerCarft (https://lazerkatsweirdstuff.github.io/servercraft)
+
+![](https://komarev.com/ghpvc/?username=lazerkatsweirdstuff)
