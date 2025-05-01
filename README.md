@@ -7,4 +7,4 @@
 
 My bestest project is ServerCarft (https://lazerkatsweirdstuff.github.io/servercraft)
 
-![](https://komarev.com/ghpvc/?username=lazerkatsweirdstuff)
+![](https://komarev.com/ghpvc/?username=lazerkatsweirdstuff&style=for-the-badge)
